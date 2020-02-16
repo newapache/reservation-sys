@@ -24,11 +24,7 @@
 
 #
 
-*
-
-*
-
-*
+* 예약하기 
 
 <p align="center">
   <img width="400"  src="/image/demo2gif.gif">
@@ -36,33 +32,32 @@
 
 #
 
-*
+* 로그인
 
-*
+* 내 예약내역 조회 
 
-*
+* 예약 취소하기
+
 
 <p align="center">
   <img width="400"  src="/image/demo3gif.gif">
 </p>
 
+
 #
 
-*
 
-*
+* 리뷰 작성하기 
 
-*
+* 리뷰 이미지 업로드 
+
+* 작성 리뷰확인 
+
 
 <p align="center">
   <img width="400"  src="/image/demo4gif.gif">
 </p>
 
-* 마이페이지 
-
-* 공연 홍보글 등록 
-
-* 네트워킹 (팔로우 및 채팅) 
 
 
 #
