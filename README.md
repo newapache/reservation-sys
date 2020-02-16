@@ -4,7 +4,7 @@
 ## [부스트코스 웹프로그래밍 과정](https://www.edwith.org/boostcourse-web)
 
 - 네이버 예약시스템 clone project 
-- 구현내용 정리용 repo
+- 구현내용 기록용 레포지토리
 
 ## 개발 환경 
 
