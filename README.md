@@ -76,6 +76,9 @@
 
 ## Web API
 
+- 본 프로젝트에서 작성한 api 리스트 [api 규격 상세보기](http://49.236.147.192:9090/swagger-ui.html#/)
+
+
 <p align="center">
   <img width="800"  src="/image/api1.png">
 </p>
