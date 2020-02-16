@@ -10,7 +10,7 @@
 
 ## 구현 화면 
 <p align="center">
-  <img width="700" height="480" src="/images/view2.png">
+  <img width="400"  src="/image/demo1gif.gif">
 </p>
 
 * 로그인 
