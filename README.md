@@ -9,24 +9,54 @@
 
 
 ## 구현 화면 
+
+* 메인 화면
+
+* 공연 카테고리 별 공연목록 보기   
+
+* 상세 내용 보기  
+
 <p align="center">
   <img width="400"  src="/image/demo1gif.gif">
 </p>
 
-* 로그인 
 
-* 현 위치 및 선호도 별 공연 추천  
-
-* 버스킹 지도 
 
 #
 
+*
 
+*
+
+*
 
 <p align="center">
-  <img width="700" height="480" src="/images/view1.png">
+  <img width="400"  src="/image/demo2gif.gif">
 </p>
 
+#
+
+*
+
+*
+
+*
+
+<p align="center">
+  <img width="400"  src="/image/demo3gif.gif">
+</p>
+
+#
+
+*
+
+*
+
+*
+
+<p align="center">
+  <img width="400"  src="/image/demo4gif.gif">
+</p>
 
 * 마이페이지 
 
@@ -38,16 +68,6 @@
 #
 
 
-
-<p align="center">
-  <img width="700" height="480" src="/images/view3.png">
-</p>
-
-* 실시간 라이브 방송 및 채팅 
-
-* 지나간 방송 다시보기 
-
-* 관심회원 검색 
 
 
 
