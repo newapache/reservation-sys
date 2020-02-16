@@ -7,6 +7,8 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 
+## 
+
 
 ## 구현 화면 
 
@@ -64,22 +66,31 @@
 
 
 
+## ERD 
 
+<p align="center">
+  <img width="800"  src="/image/erd.png">
+</p>
 
-
-
-## 개발 환경 
-
-
-
-#
 
 
 ## Web API
 
+<p align="center">
+  <img width="800"  src="/image/api1.png">
+</p>
 
-#
+<p align="center">
+  <img width="800"  src="/image/api2.png">
+</p>
 
+<p align="center">
+  <img width="800"  src="/image/api3.png">
+</p>
+
+<p align="center">
+  <img width="800"  src="/image/api4.png">
+</p>
 
 
 
