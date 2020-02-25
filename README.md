@@ -1,7 +1,7 @@
 
 
 # 네이버 예약시스템 개발  
-## [부스트코스 웹프로그래밍 과정](https://www.edwith.org/certificate/A20200224-817680?langCode=ko)
+## [부스트코스 웹프로그래밍 과정 수료](https://www.edwith.org/certificate/A20200224-817680?langCode=ko)
 
 - 네이버 예약시스템 clone project ( spring 4.3.5 | mysql 5.1.45 based)
 - 구현내용 기록용 레포지토리
